@@ -1,0 +1,10 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../APP/src/w5500.c:96:6:w5500Init	8	static
+../APP/src/w5500.c:110:6:wizchip_initialize	40	static
+../APP/src/w5500.c:166:6:Loopback_Test	4	static
+../APP/src/w5500.c:179:6:w5500Info	8	static
+../APP/src/w5500.c:193:6:print_network_information	32	static
+../APP/src/w5500.c:217:6:DnsInit	8	static
+../APP/src/w5500.c:230:6:messageArrived	144	static
+../APP/src/w5500.c:279:6:MqttRun	576	static
+../APP/src/w5500.c:415:6:MqttSendData	16	static

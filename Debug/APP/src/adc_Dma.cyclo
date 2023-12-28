@@ -1,0 +1,4 @@
+../APP/src/adc_Dma.c:14:6:adcInit	1
+../APP/src/adc_Dma.c:25:10:adcRead	2
+../APP/src/adc_Dma.c:40:10:adcReadVoltage	1
+../APP/src/adc_Dma.c:53:7:adcReadTemp	1

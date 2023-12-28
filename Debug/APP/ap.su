@@ -1,0 +1,5 @@
+../APP/ap.c:19:6:ledISR	16	static
+../APP/ap.c:24:6:CheckRdy	16	static
+../APP/ap.c:40:6:apInit	24	static
+../APP/ap.c:89:6:apMain	16	static
+../APP/ap.c:138:6:infoCli	32	static

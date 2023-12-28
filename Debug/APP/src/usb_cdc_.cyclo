@@ -1,0 +1,8 @@
+../APP/src/usb_cdc_.c:20:6:usbInit	1
+../APP/src/usb_cdc_.c:26:6:usbBegin	3
+../APP/src/usb_cdc_.c:84:6:usbDeInit	2
+../APP/src/usb_cdc_.c:92:6:usbIsOpen	1
+../APP/src/usb_cdc_.c:97:6:usbIsConnect	5
+../APP/src/usb_cdc_.c:120:11:usbGetMode	1
+../APP/src/usb_cdc_.c:125:11:usbGetType	1
+../APP/src/usb_cdc_.c:130:6:OTG_HS_IRQHandler	1

@@ -1,0 +1,7 @@
+../APP/src/swtimer.c:27:6:swtimerInit	2
+../APP/src/swtimer.c:40:6:swtimerGetCh	2
+../APP/src/swtimer.c:58:6:swtimerSet	2
+../APP/src/swtimer.c:80:6:swtimerStart	2
+../APP/src/swtimer.c:92:6:swtimerStop	2
+../APP/src/swtimer.c:104:6:swtimerISR	6
+../APP/src/swtimer.c:127:6:HAL_TIM_PeriodElapsedCallback	2

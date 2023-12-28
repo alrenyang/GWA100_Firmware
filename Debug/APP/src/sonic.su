@@ -1,0 +1,6 @@
+../APP/src/sonic.c:79:6:KalmanFilter_Init	24	static
+../APP/src/sonic.c:87:6:KalmanFilter_Update	32	static
+../APP/src/sonic.c:98:7:KalmanFiltercal	16	static
+../APP/src/sonic.c:112:10:ReadDst	24	static
+../APP/src/sonic.c:126:9:calData	32	static
+../APP/src/sonic.c:144:10:ReadAvgDst	72	static

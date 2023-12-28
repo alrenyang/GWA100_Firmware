@@ -1,0 +1,8 @@
+../APP/src/usb_cdc_.c:20:6:usbInit	4	static
+../APP/src/usb_cdc_.c:26:6:usbBegin	16	static
+../APP/src/usb_cdc_.c:84:6:usbDeInit	8	static
+../APP/src/usb_cdc_.c:92:6:usbIsOpen	8	static
+../APP/src/usb_cdc_.c:97:6:usbIsConnect	8	static
+../APP/src/usb_cdc_.c:120:11:usbGetMode	4	static
+../APP/src/usb_cdc_.c:125:11:usbGetType	8	static
+../APP/src/usb_cdc_.c:130:6:OTG_HS_IRQHandler	8	static

@@ -1,0 +1,4 @@
+../APP/src/adc_Dma.c:14:6:adcInit	8	static
+../APP/src/adc_Dma.c:25:10:adcRead	24	static
+../APP/src/adc_Dma.c:40:10:adcReadVoltage	24	static
+../APP/src/adc_Dma.c:53:7:adcReadTemp	24	static
